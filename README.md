@@ -6,3 +6,4 @@ Visualizations for basic CS topics
 * Pathfinding algorithms
 * Turing machines
 * Data Structures
+* Logic Gates
